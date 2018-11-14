@@ -72,7 +72,7 @@ public class AccountActivity extends AppCompatActivity {
 
     @Override    protected void onResume() {
         if (auth.getCurrentUser() == null) {
-            startActivity(new Intent(MainActivity.this, LoginActivity.class));
+            startActivity(new Intent(AccountActivity.this, LoginActivity.class));
             finish();
         }
         super.onResume();
