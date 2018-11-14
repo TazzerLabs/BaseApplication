@@ -1,4 +1,4 @@
-package ssu.groupname.baseapplication;
+package com.eyass.eyassseccamera_firebasedb;
 
 import org.junit.Test;
 

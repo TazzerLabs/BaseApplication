@@ -1,4 +1,4 @@
-package ssu.groupname.baseapplication;
+package com.eyass.eyassseccamera_firebasedb;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ssu.groupname.baseapplication", appContext.getPackageName());
+        assertEquals("com.eyass.eyassseccamera_firebasedb", appContext.getPackageName());
     }
 }
