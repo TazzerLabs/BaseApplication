@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">BaseApplication</string>
+    <string name="app_name">New370</string>
+    <string name="off">off</string>
+    <string name="human_detection">human_detection</string>
+    <string name="enter">enter</string>
+    <string name="phone_number">phone</string>
+    <string name="Enter">Enter</string>
+    <string name="enter_live_url">url</string>
+    <string name="settings">Settings</string>
 </resources>
