@@ -58,7 +58,7 @@ public class LoginActivity extends AppCompatActivity {
                                                     Toast.LENGTH_LONG).show();
                                             Log.v("error", task.getResult().toString());
                                         } else {
-                                            Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                                            Intent intent = new Intent(LoginActivity.this, AccountActivity.class);
                                             startActivity(intent);
                                             finish();
                                         }
@@ -95,7 +95,7 @@ public class LoginActivity extends AppCompatActivity {
 
     @Override    protected void onResume() {
         if (auth.getCurrentUser() != null) {
-            startActivity(new Intent(LoginActivity.this, MainActivity.class));
+            startActivity(new Intent(LoginActivity.this, AccountActivity.class));
             finish();
         }
         super.onResume();
