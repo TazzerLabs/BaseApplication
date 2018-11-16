@@ -1,4 +1,4 @@
-package ssu.groupname.baseapplication;
+package com.example.haleypsheridan.navigationdrawer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ssu.groupname.baseapplication", appContext.getPackageName());
+        assertEquals("com.example.haleypsheridan.navigationdrawer", appContext.getPackageName());
     }
 }
