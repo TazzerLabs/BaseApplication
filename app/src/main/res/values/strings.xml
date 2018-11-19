@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Navigation Drawer</string>
-
     <string name ="navigation_drawer_open">Open Navigation drawer</string>
     <string name ="navigation_drawer_closed">Close Navigation drawer</string>
     <string name="Haley_text">Hey</string>
+    <!--<string name="app_name">EyassSecCamera-FirebaseDB</string> -->
 </resources>

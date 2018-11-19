@@ -1,4 +1,4 @@
-package com.example.haleypsheridan.navigationdrawer;
+package com.eyass.eyassseccamera_firebasedb;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
