@@ -1,4 +1,4 @@
-package ssu.groupname.baseapplication;
+package com.example.haleypsheridan.navigationdrawer;
 
 import org.junit.Test;
 

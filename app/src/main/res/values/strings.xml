@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">BaseApplication</string>
+    <string name="app_name">Navigation Drawer</string>
+    <string name ="navigation_drawer_open">Open Navigation drawer</string>
+    <string name ="navigation_drawer_closed">Close Navigation drawer</string>
+    <string name="Haley_text">Hey</string>
+    <string name="haley_blurb">Only girl in class. Gets harassed by John John. </string>
+    <string name="elliot_blurb">Nice dude. Massive feet. Sass galore.</string>
+    <string name="grant_blurb"> AKA Greg. Very cool guy. Knows a creepy amount about facial recognition software.</string>
+    <string name="john_blurb">Resident Firebase DB guy. Will be using ads to take over the world. </string>
 </resources>
